@@ -22,7 +22,7 @@ Procedures have been built by NorthWestTrees Gaming.
     * Block Textures
 
 ## LATEST DOWNLOAD
-| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/ownership/files/7180053/Ownership.zip) | Download for 1.0.0 |
+| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Ownership/files/7180053/Ownership.zip) | Download for 1.0.0 |
 | --- | --- |
 
 ## TUTORIALS
