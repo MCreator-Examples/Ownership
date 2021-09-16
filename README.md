@@ -26,7 +26,7 @@ Procedures have been built by NorthWestTrees Gaming.
 | --- | --- |
 
 ## TUTORIALS
-* [YouTube: Basic Ownership System](https://youtu.be/7yDoEN-TNDs) - Published on 2021-09-17
+* [YouTube: Basic Ownership System](https://youtu.be/qPND2dPiO5A) - Published on 2021-09-17
 
 ## GALLERY
 ![Ownership](https://i.imgur.com/Zrw0WbP.png)
