@@ -16,12 +16,12 @@ Textures have been made by NorthWestTrees Gaming.
 Procedures have been built by NorthWestTrees Gaming.
 
 ### CONTENTS
-#### 1.0.0
+#### 1.0.0 | BASIC OWNERSHIP SYSTEM
 * MCreator Workspace
 * MCreator Procedures
 * Resources
     * Block Textures
-#### 1.1.0
+#### 1.1.0 | OWNERSHIP PASSWORDS
 * MCreator Workspace
 * MCreator Procedures
 * Resources
