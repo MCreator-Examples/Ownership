@@ -1,3 +1,4 @@
+![Ownership](https://i.imgur.com/Zrw0WbP.png)
 # OWNERSHIP
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -62,6 +63,3 @@ Procedures have been built by NorthWestTrees Gaming.
 ### DOWNLOAD
 | [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Ownership/releases/download/1.1.0/Ownership_Passwords.zip) | Download for 1.1.0 |
 | --- | --- |
-
-## GALLERY
-![Ownership](https://i.imgur.com/Zrw0WbP.png)
