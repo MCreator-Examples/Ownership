@@ -34,7 +34,7 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Basic Ownership System](https://youtu.be/qPND2dPiO5A) - Published on 2021-09-17
-* YouTube: Basic Ownership Passwords - Published on 2021-10-01
+* YouTube: Ownership Passwords - Published on 2021-10-01
 
 ## GALLERY
 ![Ownership](https://i.imgur.com/Zrw0WbP.png)
