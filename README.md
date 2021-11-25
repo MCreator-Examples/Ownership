@@ -64,7 +64,7 @@ Procedures have been built by NorthWestTrees Gaming.
 | [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Ownership/releases/download/1.1.0/Ownership_Passwords.zip) | Download for 1.1.0 |
 | --- | --- |
 
-## 1.2.0 | OWNERSHIP PASSWORDS
+## 1.2.0 | OWNERSHIP COMBO LOCKS
 ### OVERVIEW 
 EXAMPLE VERSION INFORMATION
 
